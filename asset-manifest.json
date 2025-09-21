@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Muskan-tuteja/Habit-Tracker-project.git/static/css/main.3856a971.css",
+    "main.js": "/Muskan-tuteja/Habit-Tracker-project.git/static/js/main.89feda51.js",
+    "index.html": "/Muskan-tuteja/Habit-Tracker-project.git/index.html",
+    "main.3856a971.css.map": "/Muskan-tuteja/Habit-Tracker-project.git/static/css/main.3856a971.css.map",
+    "main.89feda51.js.map": "/Muskan-tuteja/Habit-Tracker-project.git/static/js/main.89feda51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3856a971.css",
+    "static/js/main.89feda51.js"
+  ]
+}
