@@ -1,4 +1,6 @@
 {
+  "homepage": "https://github.com/Muskan-tuteja/Habit-Tracker-project.git",
+
   "name": "habit-tracker",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +17,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
     "dev": "vite",
     "preview": "vite preview",
     "start": "react-scripts start",
