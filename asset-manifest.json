@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Muskan-tuteja/Habit-Tracker-project/static/css/main.3856a971.css",
-    "main.js": "/Muskan-tuteja/Habit-Tracker-project/static/js/main.d8e61062.js",
-    "index.html": "/Muskan-tuteja/Habit-Tracker-project/index.html",
-    "main.3856a971.css.map": "/Muskan-tuteja/Habit-Tracker-project/static/css/main.3856a971.css.map",
-    "main.d8e61062.js.map": "/Muskan-tuteja/Habit-Tracker-project/static/js/main.d8e61062.js.map"
+    "main.css": "/Habit-Tracker-project/static/css/main.3856a971.css",
+    "main.js": "/Habit-Tracker-project/static/js/main.d8e61062.js",
+    "index.html": "/Habit-Tracker-project/index.html",
+    "main.3856a971.css.map": "/Habit-Tracker-project/static/css/main.3856a971.css.map",
+    "main.d8e61062.js.map": "/Habit-Tracker-project/static/js/main.d8e61062.js.map"
   },
   "entrypoints": [
     "static/css/main.3856a971.css",
